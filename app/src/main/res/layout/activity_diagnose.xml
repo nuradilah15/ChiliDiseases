@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.DiagnoseActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/diagnose_your_chili"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="15dp"
+            />
+
+        <CheckBox
+            android:id="@+id/Gejala_A"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/G01"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="15dp"/>
+
+        <CheckBox
+            android:id="@+id/Gejala_B"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/G02"
+            android:layout_marginStart="10dp"/>
+
+        <CheckBox
+            android:id="@+id/Gejala_C"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/G03"
+            android:layout_marginStart="10dp"/>
+
+        <CheckBox
+            android:id="@+id/Gejala_D"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/G04"
+            android:layout_marginStart="10dp"/>
+
+        <CheckBox
+            android:id="@+id/Gejala_E"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/G05"
+            android:layout_marginStart="10dp"/>
+
+        <CheckBox
+            android:id="@+id/Gejala_F"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/G06"
+            android:layout_marginStart="10dp"/>
+
+        <CheckBox
+            android:id="@+id/Gejala_G"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/G07"
+            android:layout_marginStart="10dp"/>
+
+        <CheckBox
+            android:id="@+id/Gejala_H"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/G08"
+            android:layout_marginStart="10dp"/>
+
+        <CheckBox
+            android:id="@+id/Gejala_I"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/G09"
+            android:layout_marginStart="10dp"/>
+
+        <CheckBox
+            android:id="@+id/Gejala_J"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/G010"
+            android:layout_marginStart="10dp"/>
+
+        <CheckBox
+            android:id="@+id/Gejala_K"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/G011"
+            android:layout_marginStart="10dp"/>
+
+        <CheckBox
+            android:id="@+id/Gejala_L"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/G012"
+            android:layout_marginStart="10dp"/>
+
+        <CheckBox
+            android:id="@+id/Gejala_M"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/G013"
+            android:layout_marginStart="10dp"/>
+
+        <CheckBox
+            android:id="@+id/Gejala_N"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/G014"
+            android:layout_marginStart="10dp"/>
+
+        <CheckBox
+            android:id="@+id/Gejala_O"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/G015"
+            android:layout_marginStart="10dp"/>
+
+        <CheckBox
+            android:id="@+id/Gejala_P"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/G016"
+            android:layout_marginStart="10dp"/>
+
+        <CheckBox
+            android:id="@+id/Gejala_Q"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/G017"
+            android:layout_marginStart="10dp"/>
+
+        <Button
+            android:id="@+id/Click_button"
+            android:backgroundTint="@color/green"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:text="@string/diagnose"/>
+
+    </LinearLayout>
+
+</ScrollView>

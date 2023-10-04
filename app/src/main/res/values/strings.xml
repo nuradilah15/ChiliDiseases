@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">ChiliAppSkripsiNew</string>
+    <string name="chili_disease">Chili Disease</string>
+    <string name="chili_disease2">CHILI DISEASE</string>
+    <string name="diagnose_your_plants_to_get_the_perfect_results">Diagnose your plants to get the perfect results</string>
+    <string name="diagnosa">Diagnose</string>
+    <string name="penyakit">Disease Info</string>
+    <string name="perawatan">PlantCare</string>
+    <string name="description">Description</string>
+
+    <string name="P01">Penyakit bercak daun (Cercospora)</string>
+    <string name="P01Desc">Penyakit bercak daun Cercospora merupakan penyakit yang disebabkan oleh jamur Cercospora capsica spp. Umum terjadinya pada tanaman cabai di berbagai daerah. Penyakit ini di tandai dengan adanya bercak warna coklat atau hitam pada daun tanaman cabai. Bercak dapat membesar seiring dengan perkembangan penyakit.</string>
+    <string name="P02">Penyakit Busuk Daun (Phytophtora)</string>
+    <string name="PO2Desc">Penyakit ini sebabkan oleh pathogen Phytophtora spp. Yang menyebabkan penyakit busuk pada daun, tetapi tidak hanya pada daun penyakit ini juga bisa terkena pada batang, dan akar tanaman cabai. Daun busuk akan berubah warna dari kekuningan, coklat, kehitaman atau hitam. Lalu daun tersebut kemudain menjadi lembek dan mudah hancur.</string>
+    <string name="P03">Penyakit Busuk Buah Antraknosa (Collectrotichum gloeospoiroides)</string>
+    <string name="P03Des">Penyakit ini ditandai dengan munculnya bercak berwarna orange dan coklat pada buah. Dalam waktu yang tidak lama buah akan berubah menjadi coklat kehitaman dan membusuk, ledakan penyakit ini akan sangat ceota pada musim hujan. Serangan yang berat menyebabkan seluruh buah keriput dan mengering.</string>
+    <string name="P04">Penyakit Layu (Fusarium) (Phytophtora)</string>
+    <string name="P04Desc">Penyakit fusarium pada tanaman cabai juga dikenal sebagai Fusarium wilt, yang disebabkan oleh fusarium oxyporum. Daun yang terserangan mengalami kelayuan mulai dari bagian bawah, menguning dan menjalar ke atas ranting muda yang kemudian dapat menyebabkan kematian. Bila serangan sudah sampai batang, maka buah kecil akan gugur.</string>
+    <string name="P05">Penyakit Rebah Kecambah (Phytophtora)</string>
+    <string name="P05Desc">Rhizoctonia merupakan salah satu patogen yang menyebabkan penyakit rebah kecambah di persemaian cabai. Penyakit ini dapat merugikan petani, terutama pada bibit yang baru berumur 1-21 hari setelah semai. Terdapat luka coklat pada pangkal batang, bibit cabai yang di taburkan tidak tumbuh subur bahkan bisa tiba-tiba mati</string>
+    <string name="P06">Penyakit Virus Kuning (Gemini Virus)</string>
+    <string name="P06Desc">Helaian daun mengalami vein clearing dimulai dari daun pucuk berkembang menjadi warna kuning jelas, tulang daun menebal dan daun menggulung ke atas atau pucuk mengalami kriting. Warna daun belang menjadi hijau muda dan tua. Infeksi lanjut dari gemini virus menyebabkan daun mengecil berwarna kuning terang, tanaman kerdil dan tidak berbuah.</string>
+
+    <string name="S01"> Cara penanganan yang cocok ialah, sebagai berikut:\n
+        \n1.	Pemupukan  berimbang  yaitu  Urea  150-200kg,  Za  50-500kg,  TSP  100-150kg,  KCL 100-150 dan pupuk organik 20-30 ton per hektar
+        \n2.	Lakukan  rotasi  tanaman  dengan  tanaman bukan inang
+        \n3.	Penggunaan atap perak di dataran tinggi dan penggunaan jerami di dataran rendah.
+        \n4.	Potong daun tanaman yang baru
+        \n5.	Asupan  air  yang  cukup,  karena  dengan kekurangan air, penyakitnya semakin parah
+    </string>
+
+    <string name="S02"> Cara penanganan yang cocok ialah, sebagai berikut:\n
+        \n1.	Mengurangi dosis pemupukan nitrogen seperti urea dan ZA.
+        \n2.	Mengatur jarak tanam agar sirkulasi udara berjalan lancar.
+        \n3.	Mencabut tanaman yang terinfeksi dan di bakar.
+        \n4.	Penyemprotan bisa dilakukan dengan fungisida yang memiliki perekat (jika musim hujan).
+
+    </string>
+
+    <string name="S03"> Cara penanganan yang cocok ialah, sebagai berikut:\n
+        \n1.	Membersihkan   dengan memusnahkan tanaman yang sakit kemudian membuang  dan memusnahkannya
+        \n2.	Perbaiki   irigasi mencegah overwatering   dengan   membentuk   simpul setinggi 40-50 cm
+        \n3.	Penggunaan bibit yang sehat
+        \n4.	Lakukan  rotasi  tanaman  dengan  tanaman bukan inang
+        \n5.	Aplikasi fungisida yang direkomendasikan
+    </string>
+
+    <string name="S04"> Cara penanganan yang cocok ialah, sebagai berikut:\n
+        \n1.	Remediasi dengan memusnahkan daun atau sisa tanaman yang terinfeksi
+        \n2.	Tanam benih bebas pentogen di tanah yang tidak tercemar
+        \n3.	Penanaman yang baik pada musim kemarau dengan penyiraman yang baik
+        \n4.	Bila perlu aplikasikan penyakit jamur
+    </string>
+
+    <string name="S05">  Cara penanganan yang cocok ialah, sebagai berikut:\n
+        \n1.	Sebelum disemai rendam benih dalam air hangat kuku atau dalam larutan fungisida Propamokarb hidroklorida (konsentrasi 1 ml/l air) selama 30 menit
+        \n2.	Pasteurisasi atau Pengukusan media semai menggunakan uap air panas selama 4 jam
+        \n3.	Penjarangan tanaman di persemaian
+        \n4.	Semaian yang terinfeksi penyakit harus dicabut dan dimusnahan, media tanah yang terkontaminasi dibuang.
+        \n5.	Naungan persemaian secara bertahap dibuka agar matahari masuk dan tanaman menjadi lebih kuat.
+        \n6.	Penggunaan fungisida selektif dengan dosis batas terendah.
+    </string>
+
+    <string name="S06"> Cara penanganan yang cocok ialah, sebagai berikut:\n
+        \n1.	Kendalikan serangga vektor seperti kutu daun dan thrips dengan insektisida yang efektif.
+        \n2.	Tanaman  cabai  yang  menunjukkan  gejala penyakit dan diduga terinfeksi virus dicabut dan dimusnahkan.
+        \n3.	Lakukan  rotasi  tanaman  dengan  tanaman famili non-nokturnal
+
+    </string>
+    <string name="go_to_plantcure">Go to PlantCure</string>
+    <string name="penjelasan_penyakit">Penjelasan Penyakit:</string>
+    <string name="text_about_app">Aplikasi Diagnosa Penyakit pada Tanaman Cabai ini bertujuan untuk membantu para petani ataupun masyarakat untuk dapat dengan cepat menangangi tanaman cabai mereka ketika terserang penyakit.</string>
+    <string name="text_about">Aplikasi ini dibuat oleh</string>
+    <string name="my_name">Nuradilah</string>
+    <string name="my_email">nuradilah456@gmail.com</string>
+    <string name="my_github">https://github.com/nuradilah15</string>
+
+    <string name="G01">Terdapat bercak berukuran kecil pada daun</string>
+    <string name="G02">Daun berwana kuning di sekitaran bercak</string>
+    <string name="G03">Bercak daun berdiameter 0,5cm – 1cm</string>
+    <string name="G04">Daun berwarna ke kuningan</string>
+    <string name="G05">Mengalami pengeringan dan layu</string>
+    <string name="G06">Terdapat bercak pada buah</string>
+    <string name="G07">Buah busuk atau gugur sebelum waktunya</string>
+    <string name="G08">Terdapat bercak berwarna coklat tidak teratur pada daun</string>
+    <string name="G09">Daun yang lebih rendah menguning</string>
+    <string name="G010">Mengalami layu</string>
+    <string name="G011">Bila batang dibelah Nampak sistem jaringan pembuluh menjadi pucat</string>
+    <string name="G012">Busuk benih atau bibit</string>
+    <string name="G013">Tidak tumbuh subur</string>
+    <string name="G014">Daun mengering</string>
+    <string name="G015">Benih yang tiba-tiba mati</string>
+    <string name="G016">Pucuk keriting</string>
+    <string name="G017">Batang tanaman berwarna kuning</string>
+    <string name="diagnose_your_chili">Diagnose your Chili</string>
+    <string name="diagnose">Diagnose</string>
+</resources>
